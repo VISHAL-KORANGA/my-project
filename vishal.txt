@@ -1,0 +1,8 @@
+git checkout main
+git pull origin main
+git checkout feature-yourname
+git merge main
+# work
+git add .
+git commit -m "Update"
+git push origin feature-yourname
